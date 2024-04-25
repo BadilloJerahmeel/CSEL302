@@ -44,7 +44,14 @@ A computer science course provides a comprehensive education in fundamental conc
 
 <a id='my-id'></a>
 # **My Activities**
-<a href="Exercise_1.ipynb">Exercise1</a>
+*<a href="Exercise_1.ipynb">Output 1</a>
+*<a href="Badillo_Jerahmeel_ACT2.ipynb">Output 2</a>
+*<a href="Exercise3.ipynb">Output 3</a>
+*<a href="2B_Badillo_EXER4.ipynb">Output 4</a>
+*<a href="2B_BADILLO_EXER5.ipynb">Output 5</a>
+*<a href="2B_BADILLO_EXER6.ipynb">Output 6</a>
+*<a href="2B_BADILLO_EXE7.ipynb">Output 7</a>
+*<a href="2B_BADILLO_MIDTERM.ipynb">Output 8 MIDTERMS</a>
 
 
 

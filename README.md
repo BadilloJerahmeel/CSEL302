@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSEL302 Activities</title>
     <style>
-        /* Style for Netflix-like design */
+      
         body {
             font-family: Arial, sans-serif;
             background-color: #111;
@@ -67,7 +67,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="netflix-logo">Netflix-like Activities</h1>
+        <h1 class="netflix-logo">My Activities</h1>
         <div class="link-container">
             <div class="link-item">
                 <a href="Exercise_1.ipynb">Output 1</a>
@@ -95,7 +95,7 @@
             </div>
         </div>
         <div class="footer">
-            <p>Created with ❤️ by [Your Name]</p>
+            
         </div>
     </div>
 </body>

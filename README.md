@@ -44,7 +44,7 @@ A computer science course provides a comprehensive education in fundamental conc
 
 <a id='my-id'></a>
 # **My Activities**
-<a href="url">link text</a>
+<a href="Exercise_1.ipynb">Exercise1</a>
 
 
 

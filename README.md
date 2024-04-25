@@ -16,6 +16,7 @@
 *   [Quantitative Methods](#method-id)
 *  [Machine Learning](#machine-id)
 *  [Data Science](#data-id)
+*  [My Activities](#my-id)
 
 
 
@@ -37,6 +38,15 @@ Data science is an interdisciplinary field that combines domain knowledge, progr
 <a id='section-id'></a>
 # **Computer Science Course:**
 A computer science course provides a comprehensive education in fundamental concepts, theories, and practical skills related to computing systems and software development. Covering topics such as algorithms, data structures, programming languages, and computer architecture, these courses equip students with the knowledge and skills needed to design, develop, and analyze complex software systems. Through hands-on projects, collaborative assignments, and theoretical studies, students gain a deep understanding of computational principles and prepare for careers in diverse fields such as software engineering, cybersecurity, and artificial intelligence.
+
+
+
+
+<a id='my-id'></a>
+# **My Activities**
+<a href="url">link text</a>
+
+
 
 
 # **Conclusion**
